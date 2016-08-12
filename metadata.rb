@@ -1,7 +1,7 @@
 name 'data-bag-faker'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
-license 'all_rights'
-description 'Installs/Configures data-bag-faker'
-long_description 'Installs/Configures data-bag-faker'
-version '0.1.0'
+maintainer 'Ben Clark'
+maintainer_email 'ben@benclark.com'
+license 'Apache 2.0'
+description 'Stubs a fake data bag item from environment variables'
+long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
+version '1.1.0'

@@ -2,7 +2,6 @@
 # Cookbook Name:: data-bag-faker
 # Spec:: default
 #
-# Copyright (c) 2016 The Authors, All Rights Reserved.
 
 require 'spec_helper'
 
